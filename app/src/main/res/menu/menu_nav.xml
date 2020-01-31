@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_user_24dp"
+        android:title="User"
+        android:id="@+id/nav_user"
+        />
+    <item
+        android:icon="@drawable/ic_pets_black_24dp"
+        android:title="Super User"
+        android:id="@+id/nav_super_user"
+        />
+</menu>
