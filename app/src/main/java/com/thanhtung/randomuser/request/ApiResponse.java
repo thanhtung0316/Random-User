@@ -58,4 +58,5 @@ public class ApiResponse<T> {
             return errorMessage;
         }
     }
+    public class ApiEmptyResponse<T> extends ApiResponse<T>{}
 }
